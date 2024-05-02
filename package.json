@@ -1,5 +1,5 @@
 {
-  "name": "frontend-app-mealmaster",
+  "name": "app-web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.12",
+    "strip-comments": "^2.0.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
