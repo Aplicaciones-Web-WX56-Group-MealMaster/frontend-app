@@ -1,0 +1,140 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Receta de sopa de pollo",
+      "nutrition": {
+        "calories": 320,
+        "proteins": 25,
+        "fats": 12,
+        "carbs": 30
+      },
+      "features": {
+        "cookingTime": 30,
+        "difficulty": "Fácil",
+        "servingSize": 4
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=Ir1dmYEEd9s",
+      "imageUrl": "/images/sopa_pollo.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Receta de ensalada César",
+      "nutrition": {
+        "calories": 180,
+        "proteins": 10,
+        "fats": 8,
+        "carbs": 20
+      },
+      "features": {
+        "cookingTime": 15,
+        "difficulty": "Intermedia",
+        "servingSize": 2
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=4UotHl9Ua9k",
+      "imageUrl": "/images/ensalada_cesar.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Receta de pizza casera",
+      "nutrition": {
+        "calories": 400,
+        "proteins": 15,
+        "fats": 20,
+        "carbs": 35
+      },
+      "features": {
+        "cookingTime": 45,
+        "difficulty": "Media",
+        "servingSize": 6
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=crdtrzZj3fo",
+      "imageUrl": "/images/pizza_casera.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Receta de lasaña vegetariana",
+      "nutrition": {
+        "calories": 350,
+        "proteins": 18,
+        "fats": 22,
+        "carbs": 42
+      },
+      "features": {
+        "cookingTime": 50,
+        "difficulty": "Media",
+        "servingSize": 4
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=DrInBvbmBAM",
+      "imageUrl": "/images/lasagna_vegetariana.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Receta de gazpacho andaluz",
+      "nutrition": {
+        "calories": 120,
+        "proteins": 2,
+        "fats": 6,
+        "carbs": 18
+      },
+      "features": {
+        "cookingTime": 20,
+        "difficulty": "Fácil",
+        "servingSize": 4
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=2XlvI-aNcsU",
+      "imageUrl": "/images/gazpacho_andaluz.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Receta de paella de mariscos",
+      "nutrition": {
+        "calories": 510,
+        "proteins": 40,
+        "fats": 22,
+        "carbs": 44
+      },
+      "features": {
+        "cookingTime": 60,
+        "difficulty": "Difícil",
+        "servingSize": 6
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=rxnd8QHbX70",
+      "imageUrl": "/images/paella_mariscos.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Receta de brownie de chocolate",
+      "nutrition": {
+        "calories": 300,
+        "proteins": 4,
+        "fats": 16,
+        "carbs": 40
+      },
+      "features": {
+        "cookingTime": 30,
+        "difficulty": "Intermedia",
+        "servingSize": 8
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=xlB8o0HsYcQ",
+      "imageUrl": "/images/brownie_chocolate.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Receta de curry de garbanzos",
+      "nutrition": {
+        "calories": 250,
+        "proteins": 9,
+        "fats": 12,
+        "carbs": 28
+      },
+      "features": {
+        "cookingTime": 40,
+        "difficulty": "Media",
+        "servingSize": 4
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=72KydLnMDc4",
+      "imageUrl": "/images/cuy_garbanzo.jpeg"
+    }
+  ]
+}

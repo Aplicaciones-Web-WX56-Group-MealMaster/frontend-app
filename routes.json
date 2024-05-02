@@ -1,0 +1,4 @@
+{
+  "/mealMaster/api/v1/getRecipes": "/recipes",
+  "/mealMaster/api/v1/getRecipe/:recipeId": "/recipes?id=:recipeId"
+}
